@@ -21,6 +21,11 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitchauhan0809/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@mr_abc_08_09)
 
+
+<a href="https://github.com/AnkitChauhan0809">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitChauhan0809&theme=tokyonight&hide_langs_below=1" />
+</a>
+
 ---
 ### ⭐ Statistics and Languages
 
